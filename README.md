@@ -38,9 +38,9 @@ Soy estudiante apasionado por los datos y la tecnología. Este portafolio es par
 
 📫 Puedes contactarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [GitHub](https://github.com/tuusuario)
-- 📧 tuemail@correo.com
+- [LinkedIn]
+- [GitHub]
+- [Correo]
 
 ---
 
